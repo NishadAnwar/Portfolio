@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.02e7db51.css",
+    "main.js": "/Portfolio/static/js/main.beba1b72.js",
+    "static/media/weatherApp.png": "/Portfolio/static/media/weatherApp.60391440e3c9b7da83a9.png",
+    "static/media/Contact-API.png": "/Portfolio/static/media/Contact-API.a4cdbf237dddf41625d0.png",
+    "static/media/Python-logo.png": "/Portfolio/static/media/Python-logo.dea924d737bb84eb9ce3.png",
+    "static/media/Portfolio.png": "/Portfolio/static/media/Portfolio.383686c847e3b55fd0a1.png",
+    "static/media/Stock Price Predictor.png": "/Portfolio/static/media/Stock Price Predictor.d7bdc5dcb5c8212be57d.png",
+    "static/media/CSS3-logo.png": "/Portfolio/static/media/CSS3-logo.b3314d1beb073984276d.png",
+    "static/media/vscode-logo.png": "/Portfolio/static/media/vscode-logo.691f776a11a21a483030.png",
+    "static/media/SR-logo.png": "/Portfolio/static/media/SR-logo.bca3517f0051c299d188.png",
+    "static/media/LLHS-logo.avif": "/Portfolio/static/media/LLHS-logo.aca8389b700567b63312.avif",
+    "static/media/CPP-logo.png": "/Portfolio/static/media/CPP-logo.053a898d752aef72651e.png",
+    "static/media/bootstrap-logo.png": "/Portfolio/static/media/bootstrap-logo.9cd429090069a189475b.png",
+    "static/media/cmrec-logo.jpg": "/Portfolio/static/media/cmrec-logo.2df25221ceda0dd5d890.jpg",
+    "static/media/Google-logo.png": "/Portfolio/static/media/Google-logo.52ee08d803d5fb963cea.png",
+    "static/media/JavaScript-logo.png": "/Portfolio/static/media/JavaScript-logo.062825dbceed44567e91.png",
+    "static/media/C-logo.png": "/Portfolio/static/media/C-logo.bbbbbabc8c191bfb99bf.png",
+    "static/media/nodejs-logo.svg": "/Portfolio/static/media/nodejs-logo.d4fa7d43a57af82fc444.svg",
+    "static/media/java-logo.svg": "/Portfolio/static/media/java-logo.a751bad6c81431ab4dd6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.02e7db51.css.map": "/Portfolio/static/css/main.02e7db51.css.map",
+    "main.beba1b72.js.map": "/Portfolio/static/js/main.beba1b72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e7db51.css",
+    "static/js/main.beba1b72.js"
+  ]
+}
