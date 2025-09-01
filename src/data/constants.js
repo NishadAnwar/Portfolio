@@ -1,8 +1,9 @@
 export const Bio = {
     name: "Md Nishad Anwar",
     roles: [
-      "a Full Stack Developer.",
       "a Programmer.",
+      "a Full Stack Developer.",
+      "an AI/ML Enthusiast.",
     ],
     description: "To kickstart my career as a software developer, utilizing my strong programming skills and eager to learn from experienced professionals. My goal is to contribute effectively to projects, innovate, and grow as a versatile developer while adding value to the organization",
     github: "https://github.com/NishadAnwar",
